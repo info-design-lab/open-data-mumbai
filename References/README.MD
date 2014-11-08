@@ -8,9 +8,11 @@ List of references that were discussed. Currently just a dump (_In the order the
 ######[Open Data Repository by Govt. of India](http://data.gov.in/)
 Official data repository with details of each data source & contacts. Also features a [Daily Visualization Gallery](http://data.gov.in/visualization-gallery), [Visualization Tool](http://data.gov.in/visualize3/), [Global Open Data Sites](http://data.gov.in/opendatasites) & details on Open Data [Policy](http://data.gov.in/sites/default/files/NDSAP.pdf) & [Implementation Guidelines](http://data.gov.in/sites/default/files/NDSAP_Implementation_Guidelines_2.2.pdf)
 
-######[Datahub | Datameet repository](http://datahub.io/dataset?tags=india)
+######[Datahub repository](http://datahub.io/dataset?tags=india)
+Repository by [OKFN](https://okfn.org/), based on their free, open-source data portal platform: [CKAN](http://ckan.org/)
 
 ######[Catalog of Data shared on Datameet](https://github.com/datameet/catalog)
+_(Not regularly updated. Refer to the [Datameet Google Group](https://groups.google.com/d/forum/datameet) instead)_
 
 ######[Discussion on Datameet for city-specific data portals](https://groups.google.com/d/msg/datameet/vUm_gzTqYzw/LKnA8qHA8l8J)
 
@@ -37,6 +39,7 @@ Official data repository with details of each data source & contacts. Also featu
 > Louisville - http://portal.louisvilleky.gov
 
 ######[OpenBangalore](http://openbangalore.org/) by @thejesh
+Also available as a [Github org](https://github.com/openbangalore/). [Introductory post by Thejesh](http://thejeshgn.com/2012/09/15/introducing-bangalore-open-data-repository/)
 
 ######[Switzerland from a Bird's Perspective](http://work.interactivethings.com/nzz-swiss-maps/index.html) by Interactive Things
 A series of map-based visualizations that highlight different Swiss data sets. Resonated the most with what could be a first phase of the Mumbai project.
