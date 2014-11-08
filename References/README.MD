@@ -1,4 +1,4 @@
-Reference
+References
 ==========
 
 List of references that were discussed. Currently just a dump (_In the order they were shared_).
@@ -73,4 +73,4 @@ Several interesting projects in this domain.
 ######[Civic Data | Data Smart Group at Harvard](http://datasmart.ash.harvard.edu/civic-data)
 
 
-Contributions by @Venkatra, @Rasagy, @Kenneth & @Noopur.
+Contributions by @Venkatra, @Rasagy & @Kenneth.
