@@ -63,14 +63,41 @@ A bare bone dashboard with some interesting interactions (Especially the maps l
 Several interesting projects in this domain.
 
 ######[NY Cab Data visualized](http://infosthetics.com/archives/2014/03/hubcab_mapping_all_taxi_trips_in_new_york_2011.html) 
+Project by MIT Senseable using 2011 Cab data
 
-######[Bike data Visualized](http://cleantechnica.com/2014/04/14/comfortably-riding-new-york-city-streets-spontaneous-choreographed-dance-citi-bikes/)
+######[NY Bike data Visualized](http://cleantechnica.com/2014/04/14/comfortably-riding-new-york-city-streets-spontaneous-choreographed-dance-citi-bikes/) & [NY Bike Sharing patterns visualized](http://oobrien.com/2014/04/5-5-million-journeys-at-nyc-bike-share/) as static maps.
+Interesting use of transitions & elegant maps.
 
 ######[The Planning Machine](http://www.newyorker.com/magazine/2014/10/13/planning-machine) by Evgeny Morozov | The New Yorker
+Morozov's piece on Project Cybersyn and the origins of the Big Data nation.
 
 ######[Beyond Transparency](http://beyondtransparency.org/)  
+A book on Open Data and the Future of Civic Innovation. (Available for reading online)
 
 ######[Civic Data | Data Smart Group at Harvard](http://datasmart.ash.harvard.edu/civic-data)
+Tons of (weekly) articles & resources put together by  Ash Center for Democratic Governance and Innovation at Harvard.
 
+######[SOAK: An exhibition on Mumbai](http://www.soak.in/) by [Trapeze](http://www.trapeze.in/feat6_soak1.html)
+The sectional views of Mumbai caught my eye, though [details of the exhibition](http://www.soak.in/exhibition_intro.html) don't reveal what all was covered/explored.
+
+######[Mumbai Manifesto on ToI](http://timesofindia.indiatimes.com/city/mumbai/TOI-manifesto-for-Mumbai/articleshow/44989547.cms)
+Highlights some of the major issues around Mumbai. For someone like me who is unaware about the ground reality, I think this lists some good topics to explore.
+
+######[38 Maps that explain Global Economy](http://www.vox.com/2014/8/26/6063749/38-maps-that-explain-the-global-economy)
+Nice use of maps to illustrate the variety of topics
+
+######[Static maps turned into Interactive Visualizations](http://www.fastcodesign.com/3030949/terminal-velocity/turn-nyc-subway-maps-into-interactive-data-visualizations-with-this-app)
+While not directly relevant, it might be interesting to explore _progressive-enhancement_ Interaction techniques to present our work. :)
+
+######[London DataStore & Dashboard](http://data.london.gov.uk/) & [older dashboard](http://citydashboard.org/london/)
+(Love how it isn't just a repository of data sets, but also shows the stats in interesting ways)
+
+######[Slopes of SF](http://jeromecukier.net/projects/slopes/slopes.html)
+Unfamiliar ways to visualize familiar area. More on the [process here](http://www.jeromecukier.net/blog/2014/10/27/new-personal-project-slopes-of-san-francisco/).
+
+######[London: Information Capital](http://spatial.ly/2014/09/london-information-capital/)
+A book with 100 maps of London on various different topics.
+
+-------------------------
 
 Contributions by @Venkatra, @Rasagy & @Kenneth.
