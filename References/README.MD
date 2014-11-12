@@ -96,7 +96,7 @@ While not directly relevant, it might be interesting to explore _progressive-en
 Unfamiliar ways to visualize familiar area. More on the [process here](http://www.jeromecukier.net/blog/2014/10/27/new-personal-project-slopes-of-san-francisco/).
 
 ######[London: Information Capital](http://spatial.ly/2014/09/london-information-capital/)
-A book with 100 maps of London on various different topics.
+A book with 100 maps of London on various different topics. Reviewed on [BBC](http://www.bbc.com/news/magazine-29915801)
 
 -------------------------
 
