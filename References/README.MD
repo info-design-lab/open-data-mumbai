@@ -3,6 +3,8 @@ References
 
 List of references that were discussed. Currently just a dump (_In the order they were shared_).
 
+Categories: [Sites](#sites) | [Books](#books)
+
 ###Sites
 
 ######[Open Data Repository by Govt. of India](http://data.gov.in/)
@@ -71,9 +73,6 @@ Interesting use of transitions & elegant maps.
 ######[The Planning Machine](http://www.newyorker.com/magazine/2014/10/13/planning-machine) by Evgeny Morozov | The New Yorker
 Morozov's piece on Project Cybersyn and the origins of the Big Data nation.
 
-######[Beyond Transparency](http://beyondtransparency.org/)  
-A book on Open Data and the Future of Civic Innovation. (Available for reading online)
-
 ######[Civic Data | Data Smart Group at Harvard](http://datasmart.ash.harvard.edu/civic-data)
 Tons of (weekly) articles & resources put together by  Ash Center for Democratic Governance and Innovation at Harvard.
 
@@ -90,14 +89,21 @@ Nice use of maps to illustrate the variety of topics
 While not directly relevant, it might be interesting to explore _progressive-enhancement_ Interaction techniques to present our work. :)
 
 ######[London DataStore & Dashboard](http://data.london.gov.uk/) & [older dashboard](http://citydashboard.org/london/)
-(Love how it isn't just a repository of data sets, but also shows the stats in interesting ways)
+Love how it isn't just a repository of data sets, but also shows the stats in interesting ways.
 
 ######[Slopes of SF](http://jeromecukier.net/projects/slopes/slopes.html)
 Unfamiliar ways to visualize familiar area. More on the [process here](http://www.jeromecukier.net/blog/2014/10/27/new-personal-project-slopes-of-san-francisco/).
 
+###Books
+
+######[Beyond Transparency](http://beyondtransparency.org/)  
+A book on Open Data and the Future of Civic Innovation. (Available for reading online)
+
 ######[London: Information Capital](http://spatial.ly/2014/09/london-information-capital/)
-A book with 100 maps of London on various different topics. Reviewed on [BBC](http://www.bbc.com/news/magazine-29915801)
+A book with 100 maps of London on various different topics. Reviewed on [BBC](http://www.bbc.com/news/magazine-29915801).
+
+######[The Madura Country: A Manual (OpenLibrary)](https://openlibrary.org/books/OL17626695M/The_Madura_country)
+Book by J.H. Nelson (1898). Bad OCR scan (text) available on [Archive.org](http://archive.org/stream/madurafrancis01madr/madurafrancis01madr_djvu.txt).
 
 -------------------------
-
 Contributions by @Venkatra, @Rasagy & @Kenneth.
