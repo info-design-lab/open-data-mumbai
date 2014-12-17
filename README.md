@@ -4,7 +4,7 @@ Information Design Lab at IDC, IIT Bombay
 Repository for references, discussions &amp; work done for the lab.
 
 Jump to:
-* [Open Data](https://github.com/rasagy/info-lab-idc/tree/master/References): References & Datasets for Mumbai Open Data Project
+* [Open Data](https://github.com/rasagy/info-lab-idc/tree/master/open-data): References & Datasets for Mumbai Open Data Project
 * [Brand Identity](https://github.com/rasagy/info-lab-idc/tree/master/identity): Placeholder for References for Info Lab identity design
 * [Manifesto](https://github.com/rasagy/info-lab-idc/tree/master/manifesto): Placeholder for Manifestos that inspire us
 
